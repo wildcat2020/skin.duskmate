@@ -310,7 +310,7 @@ def menu_items(data):
         options = [(i["label"], n) for n, i in enumerate(data["items"])]
         if len(data["items"]) < MAX_ITEMS:
             options.append(("Add an item…", "add"))
-        choice = pick("Home menu items", options)
+        choice = pick("Duskmate custom menu items", options)
         if choice is None:
             return
         if choice == "add":
@@ -358,7 +358,7 @@ def main():
     data = load()
     while True:
         choice = pick("Duskmate shortcuts", [
-            ("Home menu items (%d)" % len(data["items"]), "items"),
+            ("Duskmate custom menu items (%d)" % len(data["items"]), "items"),
             ("Remote buttons (%d)" % len(data["buttons"]), "buttons"),
         ])
         if choice is None:

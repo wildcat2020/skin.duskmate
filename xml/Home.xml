@@ -583,7 +583,7 @@
 					</include>
 				</control>
 				<control type="group" id="19500">
-					<description>Panel for the viewer's own menu items (Duskmate shortcuts)</description>
+					<description>Panel for the viewer's Duskmate custom menu items</description>
 					<visible>String.StartsWith(Container(9000).ListItem.Property(id),custom)</visible>
 					<include>Visible_Fade</include>
 					<control type="label">
@@ -601,7 +601,7 @@
 						<height>40</height>
 						<font>font14</font>
 						<textcolor>grey</textcolor>
-						<label>Press OK to open. Change your own items in Skin settings, Home menu.</label>
+						<label>Press OK to open. Change Duskmate custom items in Skin settings, Home menu.</label>
 					</control>
 				</control>
 				<control type="group" id="15000">

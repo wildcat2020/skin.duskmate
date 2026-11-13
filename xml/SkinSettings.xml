@@ -148,7 +148,7 @@
 				<ondown>610</ondown>
 				<visible>Container(9000).HasFocus(2)</visible>
 				<control type="button" id="6290">
-					<label>Your own menu items and remote buttons…</label>
+					<label>Duskmate custom menu items and remote buttons…</label>
 					<include>DefaultSettingButton</include>
 					<onclick>RunScript(special://skin/scripts/shortcuts.py)</onclick>
 				</control>

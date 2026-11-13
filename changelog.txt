@@ -1,3 +1,9 @@
+[B]0.3.1[/B]
+• Renamed the custom-menu setting for clarity
+
+[B]0.3.0[/B]
+• First Duskmate skin release, derived from Estuary for Kodi Omega
+
 [B]0.8.5[/B]
 • Updated language files from Transifex
 
