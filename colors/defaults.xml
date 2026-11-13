@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Duskmate "Dusk" palette. The same values live in the Android app (ui/Theme.kt) and in BRAND.md. -->
+<colors>
+	<color name="primary_background">FF262C63</color>
+	<color name="secondary_background">335B5BD6</color>
+	<color name="dialog_tint">FF1E2433</color>
+	<color name="background">FF0B0D14</color>
+	<color name="bg_image">FF8A8F9C</color>
+	<color name="bg_overlay">305B5BD6</color>
+	<color name="black">FF000000</color>
+	<color name="white">FFF3F1EC</color>
+	<color name="grey">FFB3B8C4</color>
+	<color name="blue">FFFFB84D</color>
+	<color name="red">FFE5484D</color>
+	<color name="button_focus">FF5B5BD6</color>
+	<color name="button_alt_focus">805B5BD6</color>
+	<color name="text_shadow">22000000</color>
+	<color name="border_alpha">60FFFFFF</color>
+	<color name="disabled">40FFFFFF</color>
+	<color name="selected">FFFFB84D</color>
+	<color name="invalid">FFE5484D</color>
+	<color name="focus_text">FFA3A3F7</color>
+	<color name="accent">FFFFB84D</color>
+	<color name="pause_dim">CC0B0D14</color>
+</colors>
