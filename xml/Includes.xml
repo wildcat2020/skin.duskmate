@@ -1236,7 +1236,7 @@
 			<depth>DepthBackground</depth>
 			<include>FullScreenDimensions</include>
 			<aspectratio>scale</aspectratio>
-			<texture colordiffuse="primary_background">special://skin/extras/backgrounds/primary.jpg</texture>
+			<texture>special://skin/extras/backgrounds/duskmate.png</texture>
 		</control>
 		<control type="image">
 			<depth>DepthBackground</depth>

@@ -1,3 +1,8 @@
+[B]0.3.2[/B]
+
+- New calligraphic DM icon and home-screen monogram.
+- New cinematic neon-ribbon background and cyan/violet/coral palette.
+
 [B]0.3.1[/B]
 • Renamed the custom-menu setting for clarity
 
