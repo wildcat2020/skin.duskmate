@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Duskmate "Dusk" palette. The same values live in the Android app (ui/Theme.kt) and in BRAND.md. -->
 <colors>
-	<color name="primary_background">FF07112F</color>
-	<color name="secondary_background">403B22B8</color>
-	<color name="dialog_tint">F0182140</color>
-	<color name="background">FF050817</color>
-	<color name="bg_image">FF8EA7D8</color>
-	<color name="bg_overlay">303A2DD8</color>
+	<color name="primary_background">FF0B1B55</color>
+	<color name="secondary_background">66172657</color>
+	<color name="dialog_tint">F0172657</color>
+	<color name="background">FF0B1B55</color>
+	<color name="bg_image">FFB8C5E7</color>
+	<color name="bg_overlay">2422336F</color>
 	<color name="black">FF000000</color>
-	<color name="white">FFF3F1EC</color>
-	<color name="grey">FFB3B8C4</color>
-	<color name="blue">FF22D3EE</color>
+	<color name="white">FFF4F5FF</color>
+	<color name="grey">FFB8C5E7</color>
+	<color name="blue">FF35D8FF</color>
 	<color name="red">FFE5484D</color>
-	<color name="button_focus">FF287BFF</color>
-	<color name="button_alt_focus">80287BFF</color>
+	<color name="button_focus">FF35D8FF</color>
+	<color name="button_alt_focus">8035D8FF</color>
 	<color name="text_shadow">22000000</color>
 	<color name="border_alpha">60FFFFFF</color>
 	<color name="disabled">40FFFFFF</color>
-	<color name="selected">FFFF6B78</color>
+	<color name="selected">FFC65CFF</color>
 	<color name="invalid">FFE5484D</color>
-	<color name="focus_text">FFEAF7FF</color>
-	<color name="accent">FFFF6B78</color>
-	<color name="pause_dim">CC050817</color>
+	<color name="focus_text">FF06101B</color>
+	<color name="accent">FFC65CFF</color>
+	<color name="pause_dim">CC0B1B55</color>
 </colors>

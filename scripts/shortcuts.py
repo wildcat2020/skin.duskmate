@@ -214,7 +214,7 @@ class Capture(xbmcgui.WindowDialog):
         super().__init__()
         self.code = None
         w, h = self.getWidth(), self.getHeight()
-        self.addControl(xbmcgui.ControlImage(0, 0, w, h, "", colorDiffuse="DD0B0D14"))
+        self.addControl(xbmcgui.ControlImage(0, 0, w, h, "", colorDiffuse="DD0B1B55"))
         self.addControl(xbmcgui.ControlLabel(0, h // 2 - 60, w, 50, "Press the button to use", font="font30_title", alignment=2))
         self.addControl(xbmcgui.ControlLabel(0, h // 2, w, 40, "It closes by itself after 10 seconds.", font="font14", alignment=2))
 

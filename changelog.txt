@@ -1,3 +1,7 @@
+[B]0.3.5[/B]
+
+- Unified the skin with the lighter Duskmate blue/cyan/violet palette used by the app and launcher.
+
 [B]0.3.3[/B]
 
 - Added the Duskmate name beside the DM monogram in the Kodi home header.
