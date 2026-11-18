@@ -21,7 +21,7 @@ DATA_DIR = xbmcvfs.translatePath("special://profile/addon_data/skin.duskmate/")
 DATA_FILE = os.path.join(DATA_DIR, "shortcuts.json")
 KEYMAP_FILE = xbmcvfs.translatePath("special://profile/keymaps/duskmate_shortcuts.xml")
 DEFAULT_ICON = "icons/sidemenu/addons.png"
-DUSKMATE = "com.expansionkit.tv"
+DUSKMATE = "com.duskmate.tv"
 dialog = xbmcgui.Dialog()
 
 KODI_SECTIONS = [

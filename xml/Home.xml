@@ -1219,9 +1219,20 @@
 					<left>-20</left>
 					<top>-8</top>
 					<aspectratio align="left">keep</aspectratio>
-					<width>274</width>
+					<width>154</width>
 					<height>80</height>
 					<texture>duskmate/logo.png</texture>
+				</control>
+				<control type="label">
+					<left>142</left>
+					<top>-3</top>
+					<width>330</width>
+					<height>72</height>
+					<aligny>center</aligny>
+					<font>font45</font>
+					<textcolor>white</textcolor>
+					<shadowcolor>text_shadow</shadowcolor>
+					<label>Duskmate</label>
 				</control>
 			</control>
 		</control>

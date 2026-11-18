@@ -1,3 +1,7 @@
+[B]0.3.3[/B]
+
+- Added the Duskmate name beside the DM monogram in the Kodi home header.
+
 [B]0.3.2[/B]
 
 - New calligraphic DM icon and home-screen monogram.
